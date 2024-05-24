@@ -1,0 +1,31 @@
+html {
+  background: url("img/1920x1080.jpg");
+  background-size: cover;
+}
+
+body {
+  background: rgba(255, 255, 255, 0.7);
+  width: 500px;
+  margin: auto;
+  text-align: center;
+  border-radius: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 50px 75px;
+}
+#output {
+  padding-right: 350px;
+}
+#q {
+  padding-right: 300px;
+}
+#question {
+  width: 450px;
+}
+#btn {
+  border-width: 0px;
+  margin: auto;
+  background-color: rgba(255, 255, 255, 0);
+}
+#btn:hover {
+  opacity: 5;
+}
